@@ -1,5 +1,3 @@
-package com.nobuharushimazu
-
 import java.net.Socket
 import java.io.*
 
